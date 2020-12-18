@@ -6,7 +6,12 @@
 
 
 /* Header/logo tiêu đề */
-
+.header img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: #555;
+  }
 header {
     padding: 5px;
     text-align: center;
